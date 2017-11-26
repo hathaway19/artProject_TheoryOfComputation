@@ -527,3 +527,331 @@ LogInit: Object subsystem initialized
 [2017.11.26-06.27.55:888][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
 [2017.11.26-06.28.01:747][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
 [2017.11.26-06.28.01:780][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.26-06.32.19:553][489]LogEditorViewport: Clicking Background
+[2017.11.26-06.34.06:190][227]LogSavePackage: Save=23.68ms
+[2017.11.26-06.34.06:190][227]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/HitBoxC8CCE9664F8110C547D61280C16F19E9.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/HitBox.uasset'
+[2017.11.26-06.34.06:195][227]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/HitBox.uasset
+[2017.11.26-06.34.13:702][881]BlueprintLog: New page: Compile HitBox
+[2017.11.26-06.34.14:314][901]LogSavePackage: Save=9.59ms
+[2017.11.26-06.34.14:314][901]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/HitBox2802BB7A4EC3715F7CF012B620B7FBE7.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/HitBox.uasset'
+[2017.11.26-06.34.14:318][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/HitBox.uasset
+[2017.11.26-06.34.21:608][498]BlueprintLog: New page: Compile HitBox
+[2017.11.26-06.34.22:272][516]LogSavePackage: Save=8.96ms
+[2017.11.26-06.34.22:272][516]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/HitBoxF0AC8A854AA4EDA79D853DB17E214F45.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/HitBox.uasset'
+[2017.11.26-06.34.22:275][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/HitBox.uasset
+[2017.11.26-06.34.45:830][ 87]LogEditorViewport: Clicking on Actor (LMB): EnemySpawner_C (EnemySpawner)
+[2017.11.26-06.34.51:333][687]LogEditorViewport: Clicking on Actor (LMB): EnemySpawner_C (EnemySpawner)
+[2017.11.26-06.34.52:728][851]LogEditorViewport: Clicking on Actor (LMB): HitBox_C (HitBox)
+[2017.11.26-06.34.56:702][159]LogEditorViewport: Clicking on Actor (LMB): EnemySpawner_C (EnemySpawner)
+[2017.11.26-06.34.59:273][464]LogEditorViewport: Clicking on Actor (LMB): HitBox_C (HitBox)
+[2017.11.26-06.35.02:761][839]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.26-06.35.02:783][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.26-06.35.02:783][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.26-06.35.02:783][839]PIE: New page: PIE session: GameLevel (Nov 25, 2017, 2:35:02 PM)
+[2017.11.26-06.35.02:783][839]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.26-06.35.02:784][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001103s)
+[2017.11.26-06.35.02:785][839]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.26-06.35.02:785][839]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2017.11.26-06.35.02:785][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.001897s)
+[2017.11.26-06.35.02:810][839]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.26-06.35.02:816][839]LogInit: FAudioDevice initialized.
+[2017.11.26-06.35.02:849][839]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.26-06.35.02:850][839]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.25-22.35.02
+[2017.11.26-06.35.02:850][839]LogWorld: Bringing up level for play took: 0.000623
+[2017.11.26-06.35.02:851][839]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.26-06.35.02:851][839]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.26-06.35.02:851][839]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.26-06.35.02:851][839]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.26-06.35.02:852][839]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel -0.34
+[2017.11.26-06.35.02:852][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.26-06.35.03:692][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.26-06.35.03:730][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.26-06.35.05:859][191]LogEditorViewport: Clicking on Actor (LMB): HitBox_C (HitBox)
+[2017.11.26-06.35.08:714][530]LogEditorViewport: Clicking on Actor (LMB): EnemySpawner_C (EnemySpawner)
+[2017.11.26-06.35.10:534][745]LogEditorViewport: Clicking on Actor (LMB): HitBox_C (HitBox)
+[2017.11.26-06.35.17:151][179]LogSavePackage: Save=106.67ms
+[2017.11.26-06.35.17:151][179]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameLevelA838A0A64F18089400F273A3AFF64A27.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap'
+[2017.11.26-06.35.17:154][179]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap
+[2017.11.26-06.36.06:662][355]LogSavePackage: Save=16.57ms
+[2017.11.26-06.36.06:662][355]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/ColorChange1BE688B1A4E2E69B3A958FF99C09334BB.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange1.uasset'
+[2017.11.26-06.36.06:667][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange1.uasset
+[2017.11.26-06.36.11:154][507]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2017.11.26-06.36.11:158][507]LogMaterial: Missing cached shader map for material ColorChange1, compiling. 
+[2017.11.26-06.36.11:445][507]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2017.11.26-06.36.11:535][507]LogMaterial: Missing cached shader map for material ColorChange1, compiling. 
+[2017.11.26-06.36.14:499][584]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.11.26-06.36.14:499][584]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2017.11.26-06.36.14:499][584]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.36.14:499][584]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.36.28:914][739]LogMaterial: Missing cached shader map for material ColorChange1, compiling. 
+[2017.11.26-06.36.28:929][739]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.36.28:934][739]LogMaterial: Missing cached shader map for material ColorChange1, compiling. 
+[2017.11.26-06.36.28:975][739]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.36.31:154][823]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.36.31:154][823]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.36.31:154][823]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.36.31:154][823]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.38.57:673][957]LogMaterial: Missing cached shader map for material ColorChange1, compiling. 
+[2017.11.26-06.38.57:691][957]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.38.59:920][993]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.38.59:920][993]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.38.59:920][993]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.38.59:920][993]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.39.16:639][ 17]LogMaterial: Missing cached shader map for material ColorChange1, compiling. 
+[2017.11.26-06.39.16:661][ 17]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.39.19:340][260]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.39.19:340][260]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.39.19:340][260]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.39.19:340][260]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.39.21:532][413]LogMaterialEditor: Saving and Compiling material ColorChange1
+[2017.11.26-06.39.22:012][413]LogMaterial: Missing cached shader map for material ColorChange1, compiling. 
+[2017.11.26-06.39.22:078][413]LogMaterial: Missing cached shader map for material ColorChange1, compiling. 
+[2017.11.26-06.39.22:104][413]LogMaterial: Missing cached shader map for material ColorChange1, compiling. 
+[2017.11.26-06.39.22:154][413]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ColorChange1, compiling. 
+[2017.11.26-06.39.23:166][413]TextureStreamingBuild: Display: Compiling optional shaders took 1.017 seconds.
+[2017.11.26-06.39.24:959][413]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.26-06.39.25:014][413]LogSavePackage: Save=13.93ms
+[2017.11.26-06.39.25:014][413]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/ColorChange1BCE6AEF14F06C9D9B84CA180018B60AC.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange1.uasset'
+[2017.11.26-06.39.25:017][413]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange1.uasset
+[2017.11.26-06.39.25:042][413]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.39.25:042][413]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.39.25:042][413]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.39.25:042][413]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.26-06.39.40:932][448]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.39.42:881][448]LogSavePackage: Save=14.16ms
+[2017.11.26-06.39.42:881][448]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/ColorChange218352DD74D4B6004E83267A410A0AF42.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange2.uasset'
+[2017.11.26-06.39.42:884][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange2.uasset
+[2017.11.26-06.39.44:666][586]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.39.44:742][586]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.39.44:758][586]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.39.44:800][586]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.39.47:082][713]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.39.47:083][713]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.39.47:083][713]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.39.47:083][713]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.39.51:314][856]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.39.51:331][856]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.39.53:333][897]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.39.53:333][897]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.39.53:333][897]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.39.53:333][897]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.39.54:138][914]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.39.54:156][914]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.39.56:109][948]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.39.56:109][948]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.39.56:109][948]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.39.56:109][948]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.39.58:360][ 65]LogMaterialEditor: Saving and Compiling material ColorChange2
+[2017.11.26-06.39.58:840][ 65]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.39.58:902][ 65]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.39.58:929][ 65]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.39.58:970][ 65]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ColorChange2, compiling. 
+[2017.11.26-06.39.59:964][ 65]TextureStreamingBuild: Display: Compiling optional shaders took 0.999 seconds.
+[2017.11.26-06.40.01:824][ 65]LogSavePackage: Save=17.33ms
+[2017.11.26-06.40.01:824][ 65]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/ColorChange269AEE33A4CD653640278A9A61505A59E.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange2.uasset'
+[2017.11.26-06.40.01:827][ 65]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange2.uasset
+[2017.11.26-06.40.01:854][ 65]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.40.01:854][ 65]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.40.01:854][ 65]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.40.01:854][ 65]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.26-06.40.15:252][794]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.17:146][794]LogSavePackage: Save=17.14ms
+[2017.11.26-06.40.17:146][794]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/ColorChange3D913AC134C4A5CA63E8F568E3BA30249.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange3.uasset'
+[2017.11.26-06.40.17:149][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange3.uasset
+[2017.11.26-06.40.18:660][948]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.18:733][948]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.18:749][948]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.18:789][948]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.40.21:871][169]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.40.21:871][169]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.40.21:871][169]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.40.21:871][169]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.40.30:009][762]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.30:025][762]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.40.32:750][911]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.32:773][911]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.40.36:420][145]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.40.36:420][145]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.40.36:420][145]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.40.36:420][145]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.40.39:923][426]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.39:941][426]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.40.41:664][529]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.41:684][529]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.40.45:252][804]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.40.45:252][804]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.40.45:252][804]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.40.45:252][804]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.40.45:395][814]LogMaterialEditor: Saving and Compiling material ColorChange3
+[2017.11.26-06.40.45:868][814]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.45:914][814]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.45:942][814]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.45:986][814]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ColorChange3, compiling. 
+[2017.11.26-06.40.46:980][814]TextureStreamingBuild: Display: Compiling optional shaders took 0.999 seconds.
+[2017.11.26-06.40.48:837][814]LogSavePackage: Save=14.39ms
+[2017.11.26-06.40.48:837][814]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/ColorChange3F86710504D22C952BB9687BF16265B98.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange3.uasset'
+[2017.11.26-06.40.48:839][814]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange3.uasset
+[2017.11.26-06.40.48:849][814]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.40.48:850][814]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.40.48:850][814]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.40.48:850][814]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.26-06.40.51:056][ 28]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.51:078][ 28]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.40.52:300][131]LogMaterialEditor: Saving and Compiling material ColorChange3
+[2017.11.26-06.40.52:783][131]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.52:828][131]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.52:855][131]LogMaterial: Missing cached shader map for material ColorChange3, compiling. 
+[2017.11.26-06.40.52:899][131]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ColorChange3, compiling. 
+[2017.11.26-06.40.54:033][131]TextureStreamingBuild: Display: Compiling optional shaders took 1.140 seconds.
+[2017.11.26-06.40.55:860][131]LogSavePackage: Save=14.36ms
+[2017.11.26-06.40.55:860][131]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/ColorChange3F0708B6C4A92FE668F0B4FA496D8471B.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange3.uasset'
+[2017.11.26-06.40.55:863][131]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange3.uasset
+[2017.11.26-06.40.55:872][131]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.40.55:872][131]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.40.55:872][131]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.40.55:872][131]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.26-06.40.59:584][468]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.26-06.40.59:654][468]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.26-06.40.59:671][468]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.26-06.40.59:715][468]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.41.02:536][703]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.41.02:536][703]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.41.02:536][703]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.41.02:536][703]MaterialEditorStats: Texture samplers: 2/16
+[2017.11.26-06.41.09:994][379]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.26-06.41.10:010][379]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2017.11.26-06.41.11:492][504]LogMaterialEditor: Saving and Compiling material ColorChange2
+[2017.11.26-06.41.11:985][504]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.11.26-06.41.12:033][504]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.41.12:062][504]LogMaterial: Missing cached shader map for material ColorChange2, compiling. 
+[2017.11.26-06.41.12:107][504]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ColorChange2, compiling. 
+[2017.11.26-06.41.13:299][504]TextureStreamingBuild: Display: Compiling optional shaders took 1.197 seconds.
+[2017.11.26-06.41.15:139][504]LogSavePackage: Save=14.95ms
+[2017.11.26-06.41.15:139][504]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/ColorChange2B8129C7F43785192BBB397BE09107643.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange2.uasset'
+[2017.11.26-06.41.15:142][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Materials/ColorChange2.uasset
+[2017.11.26-06.41.15:152][504]MaterialEditorStats: Base pass shader: 101 instructions
+[2017.11.26-06.41.15:152][504]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2017.11.26-06.41.15:152][504]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.11.26-06.41.15:152][504]MaterialEditorStats: Texture samplers: 3/16
+[2017.11.26-06.46.21:011][ 44]Cmd: SELECT NONE
+[2017.11.26-06.46.49:768][201]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.26-06.47.44:100][364]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.26-06.47.46:058][483]AssetReimport: New page: Outstanding source content changes 2:47:46 PM
+[2017.11.26-06.47.46:059][483]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/circle.png)
+[2017.11.26-06.47.46:248][484]LogSavePackage: Save=16.42ms
+[2017.11.26-06.47.46:248][484]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/circle75F8661C4B39879C5FBAB79A5F368D65.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/circle.uasset'
+[2017.11.26-06.47.46:251][484]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/circle.uasset
+[2017.11.26-06.47.49:366][596]AssetReimport: Importing new asset /Game/Sprites/circle.
+[2017.11.26-06.47.53:543][911]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.11.26-06.49.48:455][234]AssetReimport: New page: Outstanding source content changes 2:49:48 PM
+[2017.11.26-06.49.48:456][234]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/circle.png)
+[2017.11.26-06.49.48:687][235]LogSavePackage: Save=18.90ms
+[2017.11.26-06.49.48:687][235]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/circleA7F03C734AA22DB9BCC50DB102F682EC.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/circle.uasset'
+[2017.11.26-06.49.48:689][235]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/circle.uasset
+[2017.11.26-06.49.51:819][340]AssetReimport: Importing new asset /Game/Sprites/circle.
+[2017.11.26-06.52.59:805][118]SourceControl: On branch master
+[2017.11.26-06.52.59:805][118]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.11.26-06.52.59:805][118]SourceControl: Changes to be committed:
+[2017.11.26-06.52.59:805][118]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.11.26-06.52.59:805][118]SourceControl: 	new file:   myArtProject/Content/Blueprints/HitBox.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: 	new file:   myArtProject/Content/Materials/ColorChange1.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: 	new file:   myArtProject/Content/Materials/ColorChange2.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: 	new file:   myArtProject/Content/Materials/ColorChange3.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: 	new file:   myArtProject/Content/Sprites/circle.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: Changes not staged for commit:
+[2017.11.26-06.52.59:805][118]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.11.26-06.52.59:805][118]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.11.26-06.52.59:805][118]SourceControl: 	modified:   myArtProject/Content/Blueprints/HitBox.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: 	modified:   myArtProject/Content/Levels/GameLevel.umap
+[2017.11.26-06.52.59:805][118]SourceControl: 	modified:   myArtProject/Content/Materials/ColorChange2.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: 	modified:   myArtProject/Content/Materials/ColorChange3.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: 	modified:   myArtProject/Intermediate/ReimportCache/3688439234.bin
+[2017.11.26-06.52.59:805][118]SourceControl: 	modified:   myArtProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.11.26-06.52.59:805][118]SourceControl: 	modified:   myArtProject/Saved/Config/Windows/Engine.ini
+[2017.11.26-06.52.59:805][118]SourceControl: Untracked files:
+[2017.11.26-06.52.59:805][118]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.11.26-06.52.59:805][118]SourceControl: 	myArtProject/Content/Sprites/circle.png
+[2017.11.26-06.52.59:805][118]SourceControl: 	myArtProject/Saved/Backup/ColorChange1_2017-11-25-22-39-24.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: 	myArtProject/Saved/Backup/ColorChange2_2017-11-25-22-40-01.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: 	myArtProject/Saved/Backup/ColorChange3_2017-11-25-22-40-48.uasset
+[2017.11.26-06.52.59:805][118]SourceControl: 	myArtProject/Saved/Backup/GameLevel_2017-11-25-22-35-17.umap
+[2017.11.26-06.52.59:805][118]SourceControl: 	myArtProject/Saved/Backup/HitBox_2017-11-25-22-34-14.uasset
+[2017.11.26-06.52.59:971][118]LogSavePackage: Save=7.04ms
+[2017.11.26-06.52.59:971][118]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/LanguageFlipbook6FA939BC4AC868F2B992D4A0C1694597.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Flipbooks/LanguageFlipbook.uasset'
+[2017.11.26-06.52.59:973][118]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Flipbooks/LanguageFlipbook.uasset
+[2017.11.26-06.53.01:010][166]LogRenderer: Reallocating scene render targets to support 1528x924 Format 10 NumSamples 1 (Frame:1).
+[2017.11.26-06.53.21:342][995]LogSavePackage: Save=104.55ms
+[2017.11.26-06.53.21:342][995]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameLevelCA39AF0E407B48368C3A80AE8382E9BF.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap'
+[2017.11.26-06.53.21:345][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap
+[2017.11.26-06.54.57:692][451]LogSavePackage: Save=7.63ms
+[2017.11.26-06.54.57:692][451]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/LanguageFlipbookB8188A49467B86ECA4FD88BA94CB0C70.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Flipbooks/LanguageFlipbook.uasset'
+[2017.11.26-06.54.57:697][451]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Flipbooks/LanguageFlipbook.uasset
+[2017.11.26-06.55.26:238][258]LogSavePackage: Save=7.88ms
+[2017.11.26-06.55.26:238][258]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/LanguageSpriteA2FFF5A740D3BA01BB757DB504D2C14D.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/LanguageSprite.uasset'
+[2017.11.26-06.55.26:241][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/LanguageSprite.uasset
+[2017.11.26-06.55.56:828][656]Cmd: TRANSACTION UNDO
+[2017.11.26-06.55.56:828][656]LogEditorTransaction: Undo Modification in Viewport
+[2017.11.26-06.55.57:207][687]Cmd: TRANSACTION UNDO
+[2017.11.26-06.55.57:207][687]LogEditorTransaction: Undo Modification in Viewport
+[2017.11.26-06.55.57:540][710]Cmd: TRANSACTION UNDO
+[2017.11.26-06.55.57:540][710]LogEditorTransaction: Undo Modification in Viewport
+[2017.11.26-06.55.57:902][737]Cmd: TRANSACTION UNDO
+[2017.11.26-06.55.57:902][737]LogEditorTransaction: Undo Delete Selection
+[2017.11.26-06.55.59:246][838]Cmd: TRANSACTION UNDO
+[2017.11.26-06.55.59:246][838]LogEditorTransaction: Undo Add Circle Shape
+[2017.11.26-06.56.36:994][746]Cmd: TRANSACTION UNDO
+[2017.11.26-06.56.36:994][746]LogEditorTransaction: Undo Modification in Viewport
+[2017.11.26-06.56.37:468][783]Cmd: TRANSACTION UNDO
+[2017.11.26-06.56.37:468][783]LogEditorTransaction: Undo Edit X
+[2017.11.26-06.57.42:972][428]Cmd: TRANSACTION UNDO
+[2017.11.26-06.57.42:972][428]LogEditorTransaction: Undo Edit Default Material
+[2017.11.26-06.58.03:295][680]Cmd: TRANSACTION UNDO
+[2017.11.26-06.58.03:295][680]LogEditorTransaction: Undo Modification in Viewport
+[2017.11.26-06.58.03:662][709]Cmd: TRANSACTION UNDO
+[2017.11.26-06.58.03:662][709]LogEditorTransaction: Undo Modification in Viewport
+[2017.11.26-06.58.03:948][725]Cmd: TRANSACTION UNDO
+[2017.11.26-06.58.03:948][725]LogEditorTransaction: Undo Edit X
+[2017.11.26-06.58.04:576][762]Cmd: TRANSACTION UNDO
+[2017.11.26-06.58.04:576][762]LogEditorTransaction: Undo Edit X
+[2017.11.26-06.58.04:926][782]Cmd: TRANSACTION UNDO
+[2017.11.26-06.58.04:926][782]LogEditorTransaction: Undo Modification in Viewport
+[2017.11.26-06.58.05:257][801]Cmd: TRANSACTION UNDO
+[2017.11.26-06.58.05:257][801]LogEditorTransaction: Undo Modification in Viewport
+[2017.11.26-06.58.05:526][817]Cmd: TRANSACTION UNDO
+[2017.11.26-06.58.05:526][817]LogEditorTransaction: Undo Add Circle Shape
+[2017.11.26-06.58.05:824][834]Cmd: TRANSACTION UNDO
+[2017.11.26-06.58.05:824][834]LogEditorTransaction: Undo Delete Selection
+[2017.11.26-06.58.07:485][927]LogSavePackage: Save=10.35ms
+[2017.11.26-06.58.07:485][927]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/LanguageSprite6805E16544DEF6B746EDC9A6BBFF243C.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/LanguageSprite.uasset'
+[2017.11.26-06.58.07:487][927]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/LanguageSprite.uasset
+[2017.11.26-06.58.10:904][218]Cmd: TRANSACTION UNDO
+[2017.11.26-06.58.10:904][218]LogEditorTransaction: Undo Snap All Verts to Pixel Grid
+[2017.11.26-06.58.22:702][317]LogSavePackage: Save=7.18ms
+[2017.11.26-06.58.22:703][317]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/LanguageFlipbook727A27EB42887EE2784275AA39B6C202.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Flipbooks/LanguageFlipbook.uasset'
+[2017.11.26-06.58.22:706][317]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Flipbooks/LanguageFlipbook.uasset
+[2017.11.26-06.58.30:651][  7]BlueprintLog: New page: Compile Enemy
+[2017.11.26-06.58.31:328][ 32]LogSavePackage: Save=14.55ms
+[2017.11.26-06.58.31:328][ 32]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/EnemyD569386A413D6692D7A2DAA845A8F17B.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy.uasset'
+[2017.11.26-06.58.31:330][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy.uasset
+[2017.11.26-06.58.33:362][243]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.26-06.58.33:383][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.26-06.58.33:383][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.26-06.58.33:384][243]PIE: New page: PIE session: GameLevel (Nov 25, 2017, 2:58:33 PM)
+[2017.11.26-06.58.33:384][243]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.26-06.58.33:385][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001029s)
+[2017.11.26-06.58.33:385][243]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.26-06.58.33:385][243]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2017.11.26-06.58.33:385][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.001751s)
+[2017.11.26-06.58.33:413][243]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.26-06.58.33:420][243]LogInit: FAudioDevice initialized.
+[2017.11.26-06.58.33:454][243]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.26-06.58.33:455][243]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.25-22.58.33
+[2017.11.26-06.58.33:455][243]LogWorld: Bringing up level for play took: 0.000524
+[2017.11.26-06.58.33:456][243]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.26-06.58.33:456][243]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.26-06.58.33:456][243]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.26-06.58.33:457][243]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.26-06.58.33:457][243]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel 0.265
+[2017.11.26-06.58.33:457][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.26-06.58.42:581][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.26-06.58.42:615][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
