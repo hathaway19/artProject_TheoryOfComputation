@@ -1,4 +1,4 @@
-﻿Log file open, 11/26/17 17:09:00
+﻿Log file open, 11/26/17 19:27:49
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,15 +7,13 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: myArtProject
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(946639952) SRandInit(946639952).
+LogInit: Display: RandInit(-1479875804) SRandInit(-1479875804).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
-LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.171703
+LogStats: Stats thread started at 0.164433
 LogD3D11RHI: Aftermath initialized
-LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
@@ -191,78 +189,418 @@ LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
-LogInit: Command line:  /Game/Levels/GameLevel -game -PIEVIACONSOLE -ResX=1280 -ResY=720  -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed 
+LogInit: Command line:  
 LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.11.27-01.09.01:862][  0]LogInit: Selected Device Profile: [Windows]
-[2017.11.27-01.09.01:862][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.11.27-01.09.01:866][  0]LogInit: Computer: DESKTOP-A54SF20
-[2017.11.27-01.09.01:866][  0]LogInit: User: Justi
-[2017.11.27-01.09.01:866][  0]LogInit: CPU Page size=4096, Cores=4
-[2017.11.27-01.09.01:866][  0]LogInit: High frequency timer resolution =3.318390 MHz
-[2017.11.27-01.09.01:866][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2017.11.27-01.09.01:866][  0]LogMemory: Platform Memory Stats for Windows
-[2017.11.27-01.09.01:866][  0]LogMemory: Process Physical Memory: 272.02 MB used, 272.02 MB peak
-[2017.11.27-01.09.01:866][  0]LogMemory: Process Virtual Memory: 263.73 MB used, 263.73 MB peak
-[2017.11.27-01.09.01:866][  0]LogMemory: Physical Memory: 8279.64 MB used,  8041.77 MB free, 16321.41 MB total
-[2017.11.27-01.09.01:866][  0]LogMemory: Virtual Memory: 637.46 MB used,  8041.77 MB free, 134217728.00 MB total
-[2017.11.27-01.09.02:017][  0]LogInit: Using OS detected language (en-US).
-[2017.11.27-01.09.02:017][  0]LogInit: Using OS detected locale (en-US).
-[2017.11.27-01.09.02:020][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2017.11.27-01.09.02:528][  0]LogD3D11RHI: D3D11 adapters:
-[2017.11.27-01.09.02:566][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780' (Feature Level 11_0)
-[2017.11.27-01.09.02:566][  0]LogD3D11RHI:       3039/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2017.11.27-01.09.02:568][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.11.27-01.09.02:568][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.11.27-01.09.02:568][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.11.27-01.09.02:574][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.11.27-01.09.02:574][  0]LogD3D11RHI:     GPU DeviceId: 0x1004 (for the marketing name, search the web for "GPU Device Id")
-[2017.11.27-01.09.02:574][  0]LogWindows: EnumDisplayDevices:
-[2017.11.27-01.09.02:574][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780' (P:1 D:1)
-[2017.11.27-01.09.02:574][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780' (P:0 D:0)
-[2017.11.27-01.09.02:574][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780' (P:0 D:0)
-[2017.11.27-01.09.02:574][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780' (P:0 D:0)
-[2017.11.27-01.09.02:574][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2017.11.27-01.09.02:574][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780
-[2017.11.27-01.09.02:574][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
-[2017.11.27-01.09.02:574][  0]LogD3D11RHI:      Driver Date: 11-14-2017
-[2017.11.27-01.09.02:574][  0]LogRHI: Texture pool is 2127 MB (70% of 3039 MB)
-[2017.11.27-01.09.02:602][  0]LogD3D11RHI: Async texture creation enabled
-[2017.11.27-01.09.02:698][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2017.11.27-01.09.02:747][  0]LogShaderCompilers: Guid format shader working directory is -66 characters bigger than the processId version (../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Intermediate/Shaders/WorkingDirectory/3412/).
-[2017.11.27-01.09.02:747][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Justi/AppData/Local/Temp/UnrealShaderWorkingDir/45FE38964136FAA3D86BEA876D73FECE/'.
-[2017.11.27-01.09.02:747][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2017.11.27-01.09.03:777][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2017.11.27-01.09.03:831][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.11.27-01.09.03:885][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2017.11.27-01.09.03:937][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2017.11.27-01.09.03:937][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2017.11.27-01.09.04:416][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2017.11.27-01.09.04:512][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/Justi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.11.27-01.09.04:512][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Justi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2017.11.27-01.09.04:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.11.27-01.09.04:512][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.11.27-01.09.04:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.11.27-01.09.04:512][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.11.27-01.09.04:530][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.11.27-01.09.04:542][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Justi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.11.27-01.09.04:554][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2017.11.27-01.09.04:554][  0]LogSlate: Using Freetype 2.6.0
-[2017.11.27-01.09.04:555][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.11.27-01.09.04:555][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.11.27-01.09.04:883][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
-[2017.11.27-01.09.04:904][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.020818 seconds
-[2017.11.27-01.09.05:017][  0]LogInit: Selected Device Profile: [Windows]
-[2017.11.27-01.09.05:410][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.11.27-01.09.05:460][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.11.27-01.09.05:460][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.11.27-01.09.05:460][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2017.11.27-01.09.05:460][  0]LogMeshReduction: No automatic mesh merging module available
-[2017.11.27-01.09.05:460][  0]LogMeshMerging: No automatic mesh merging module available
-[2017.11.27-01.09.05:485][  0]LogNetVersion: myArtProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1610086920)
-[2017.11.27-01.09.05:688][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2017.11.27-01.09.05:688][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2017.11.27-01.09.05:688][  0]LogInit: Warning: Passing commandline switches using / instead of - has been deprecated and will be removed in future versions of Unreal Engine.
-[2017.11.27-01.09.06:022][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.27-03.27.50:597][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-03.27.50:597][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.27-03.27.50:609][  0]LogInit: Computer: DESKTOP-A54SF20
+[2017.11.27-03.27.50:609][  0]LogInit: User: Justi
+[2017.11.27-03.27.50:609][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.27-03.27.50:610][  0]LogInit: High frequency timer resolution =3.318390 MHz
+[2017.11.27-03.27.50:610][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.27-03.27.50:610][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.27-03.27.50:610][  0]LogMemory: Process Physical Memory: 273.32 MB used, 273.32 MB peak
+[2017.11.27-03.27.50:610][  0]LogMemory: Process Virtual Memory: 271.60 MB used, 271.60 MB peak
+[2017.11.27-03.27.50:610][  0]LogMemory: Physical Memory: 7091.77 MB used,  9229.63 MB free, 16321.41 MB total
+[2017.11.27-03.27.50:610][  0]LogMemory: Virtual Memory: 645.46 MB used,  9229.63 MB free, 134217728.00 MB total
+[2017.11.27-03.27.50:735][  0]LogInit: Using OS detected language (en-US).
+[2017.11.27-03.27.50:735][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.27-03.27.50:737][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.27-03.27.51:134][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.27-03.27.51:358][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.27-03.27.51:392][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780' (Feature Level 11_0)
+[2017.11.27-03.27.51:392][  0]LogD3D11RHI:       3039/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.27-03.27.51:393][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.27-03.27.51:393][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.27-03.27.51:393][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.27-03.27.51:399][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.27-03.27.51:399][  0]LogD3D11RHI:     GPU DeviceId: 0x1004 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.27-03.27.51:399][  0]LogWindows: EnumDisplayDevices:
+[2017.11.27-03.27.51:399][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780' (P:1 D:1)
+[2017.11.27-03.27.51:399][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2017.11.27-03.27.51:399][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2017.11.27-03.27.51:399][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2017.11.27-03.27.51:399][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.27-03.27.51:399][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780
+[2017.11.27-03.27.51:399][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2017.11.27-03.27.51:400][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2017.11.27-03.27.51:400][  0]LogRHI: Texture pool is 2127 MB (70% of 3039 MB)
+[2017.11.27-03.27.51:422][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.27-03.27.51:477][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.27-03.27.51:525][  0]LogShaderCompilers: Guid format shader working directory is -66 characters bigger than the processId version (../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Intermediate/Shaders/WorkingDirectory/6700/).
+[2017.11.27-03.27.51:525][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Justi/AppData/Local/Temp/UnrealShaderWorkingDir/640D470544B328CD8FFE419F8ED88E3B/'.
+[2017.11.27-03.27.51:525][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.27-03.27.52:372][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.27-03.27.52:418][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.27-03.27.52:468][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.27-03.27.52:513][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.27-03.27.52:559][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.27-03.27.52:605][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.27-03.27.52:650][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.27-03.27.52:696][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.27-03.27.52:735][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.27-03.27.52:779][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.27-03.27.52:823][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.27-03.27.52:866][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.27-03.27.52:910][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.27-03.27.52:955][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.27-03.27.53:043][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.27-03.27.53:043][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.27-03.27.53:088][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.27-03.27.53:120][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.27-03.27.53:202][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.27-03.27.53:227][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.27-03.27.53:271][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.27-03.27.53:315][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.27-03.27.53:361][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.27-03.27.53:404][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.27-03.27.53:404][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.27-03.27.53:791][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.27-03.27.53:873][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Justi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.27-03.27.53:873][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Justi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.27-03.27.53:873][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.27-03.27.53:873][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.27-03.27.53:873][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.27-03.27.53:873][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.27-03.27.53:889][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.27-03.27.53:901][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Justi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.27-03.27.53:910][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.27-03.27.53:910][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.27-03.27.53:911][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-03.27.53:911][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.27-03.27.54:254][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.27-03.27.54:537][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.27-03.27.54:571][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.27-03.27.54:571][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.27-03.27.54:571][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.27-03.27.54:571][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.27-03.27.54:571][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.27-03.27.54:596][  0]LogNetVersion: myArtProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1610086920)
+[2017.11.27-03.27.54:741][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2017.11.27-03.27.55:202][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.059332 seconds
+[2017.11.27-03.27.55:208][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.27-03.27.55:208][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.27-03.27.55:208][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.27-03.27.55:252][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.27-03.27.57:608][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.27-03.27.57:645][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.27-03.27.58:218][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.27-03.27.58:580][  0]SourceControl: Source control is disabled
+[2017.11.27-03.27.59:542][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.27-03.27.59:768][  0]LogOcInput: OculusInput pre-init called
+[2017.11.27-03.28.00:013][  0]LogEngine: Initializing Engine...
+[2017.11.27-03.28.00:015][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.27-03.28.00:218][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.27-03.28.00:218][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.27-03.28.00:326][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.27-03.28.00:336][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.27-03.28.00:347][  0]LogInit: FAudioDevice initialized.
+[2017.11.27-03.28.00:430][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Justi/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.27-03.28.00:446][  0]LogInit: Texture streaming: Enabled
+[2017.11.27-03.28.00:531][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.27-03.28.00:638][  0]LogInit: Transaction tracking system initialized
+[2017.11.27-03.28.00:901][  0]BlueprintLog: New page: Editor Load
+[2017.11.27-03.28.01:642][  0]LocalizationService: Localization service is disabled
+[2017.11.27-03.28.02:420][  0]LogConsoleResponse: Display: 
+[2017.11.27-03.28.02:575][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.27-03.28.02:575][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.27-03.28.02:575][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.27-03.28.02:917][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/' took 0.01s
+[2017.11.27-03.28.03:570][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.27-03.28.03:570][  0]LightingResults: New page: Lighting Build
+[2017.11.27-03.28.03:604][  0]MapCheck: New page: Map Check
+[2017.11.27-03.28.03:604][  0]LightingResults: New page: Lighting Build
+[2017.11.27-03.28.03:634][  0]LogBlueprint: Warning: [Compiler Enemy] Input Axis Event references unknown Axis 'moveDown' for  InputAxis moveDown
+[2017.11.27-03.28.03:636][  0]LogBlueprint: Warning: [Compiler Enemy] [0015.07] Compile of Enemy successful, but with 1 Warning(s) [in 3 ms] (/Game/Blueprints/Enemy.Enemy)
+[2017.11.27-03.28.03:692][  0]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.27-03.28.03:696][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.27-03.28.03:707][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.27-03.28.03:750][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.172ms to complete.
+[2017.11.27-03.28.03:750][  0]LogFileHelpers: Loading map 'GameLevel' took 0.180
+[2017.11.27-03.28.03:878][  0]LogCollectionManager: Loaded 0 collections in 0.001464 seconds
+[2017.11.27-03.28.03:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Collections/' took 0.01s
+[2017.11.27-03.28.03:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Developers/Justi/Collections/' took 0.01s
+[2017.11.27-03.28.03:948][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Collections/' took 0.01s
+[2017.11.27-03.28.03:948][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.27-03.28.03:956][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2363 classes and 519 folders.
+[2017.11.27-03.28.04:012][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.27-03.28.04:043][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.11.27-03.28.04:079][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.27-03.28.04:096][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.27-03.28.04:099][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.27-03.28.04:104][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.27-03.28.04:205][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.27-03.28.04:385][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.11.27-03.28.04:385][  0]LogLoad: (Engine Initialization) Total time: 15.82 seconds
+[2017.11.27-03.28.04:385][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.27-03.28.04:385][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.27-03.28.04:386][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.27-03.28.04:396][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.27-03.28.04:410][  0]LogAssetRegistry: Asset discovery search completed in 9.6905 seconds
+[2017.11.27-03.28.04:411][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.27-03.28.04:411][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
+[2017.11.27-03.28.04:414][  0]SourceControl: On branch master
+[2017.11.27-03.28.04:414][  0]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.11.27-03.28.04:414][  0]SourceControl: Changes to be committed:
+[2017.11.27-03.28.04:414][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.11.27-03.28.04:414][  0]SourceControl: 	new file:   myArtProject/Content/Blueprints/MyGameInstance.uasset
+[2017.11.27-03.28.04:414][  0]SourceControl: Changes not staged for commit:
+[2017.11.27-03.28.04:414][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.11.27-03.28.04:414][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Content/Blueprints/MyGameInstance.uasset
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Content/Levels/GameLevel.umap
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Intermediate/CachedAssetRegistry.bin
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Saved/Autosaves/Game/Levels/GameLevel_Auto1.umap
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Saved/Autosaves/Game/Levels/GameLevel_Auto2.umap
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Saved/Autosaves/PackageRestoreData.json
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Saved/Config/Windows/Editor.ini
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Saved/Logs/myArtProject.log
+[2017.11.27-03.28.04:414][  0]SourceControl: 	modified:   myArtProject/Saved/Logs/myArtProject_2.log
+[2017.11.27-03.28.04:414][  0]SourceControl: Untracked files:
+[2017.11.27-03.28.04:414][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.11.27-03.28.04:414][  0]SourceControl: 	myArtProject/Saved/AutoScreenshot.png
+[2017.11.27-03.28.04:414][  0]SourceControl: 	myArtProject/Saved/Backup/Enemy2_2017-11-26-18-56-56.uasset
+[2017.11.27-03.28.04:414][  0]SourceControl: 	myArtProject/Saved/Backup/Enemy2_2017-11-26-19-16-54.uasset
+[2017.11.27-03.28.04:414][  0]SourceControl: 	myArtProject/Saved/Backup/GameLevel_2017-11-26-19-05-55.umap
+[2017.11.27-03.28.04:414][  0]SourceControl: 	myArtProject/Saved/Backup/GameLevel_2017-11-26-19-18-54.umap
+[2017.11.27-03.28.04:414][  0]SourceControl: 	myArtProject/Saved/Backup/GameLevel_2017-11-26-19-27-47.umap
+[2017.11.27-03.28.04:414][  0]SourceControl: 	myArtProject/Saved/Config/CrashReportClient/UE4CC-Windows-1983B14743D543BC2C0804AA7D5E96AF/
+[2017.11.27-03.28.04:414][  0]SourceControl: 	myArtProject/Saved/Config/CrashReportClient/UE4CC-Windows-A1451F2E481F9400D765D092B2598667/
+[2017.11.27-03.28.04:414][  0]SourceControl: 	myArtProject/Saved/Logs/myArtProject-backup-2017.11.26-18.55.26.log
+[2017.11.27-03.28.04:414][  0]SourceControl: 	myArtProject/Saved/Logs/myArtProject_2-backup-2017.11.26-19.27.49.log
+[2017.11.27-03.28.04:415][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.27-03.28.04:450][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-03.28.05:419][ 96]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-03.29.24:869][543]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.27-03.29.25:224][543]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2017.11.27-03.29.27:065][543]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.27-03.29.37:162][400]BlueprintLog: New page: Compile myGameInstance
+[2017.11.27-03.30.00:169][870]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.11.27-03.30.02:459][998]BlueprintLog: New page: Compile myGameInstance
+[2017.11.27-03.30.02:962][ 20]LogSavePackage: Save=5.99ms
+[2017.11.27-03.30.02:962][ 20]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/myGameInstance8BA74B974CA28882C5EF4FBDA7CF5316.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/myGameInstance.uasset'
+[2017.11.27-03.30.02:968][ 20]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/myGameInstance.uasset
+[2017.11.27-03.30.07:949][381]BlueprintLog: New page: Compile myGameInstance
+[2017.11.27-03.30.08:460][404]LogSavePackage: Save=5.59ms
+[2017.11.27-03.30.08:460][404]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/myGameInstanceDC03680A41C48FE74B93D288412C0D01.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/myGameInstance.uasset'
+[2017.11.27-03.30.08:462][404]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/myGameInstance.uasset
+[2017.11.27-03.30.29:940][867]BlueprintLog: New page: Compile myGameInstance
+[2017.11.27-03.30.30:391][882]LogSavePackage: Save=5.61ms
+[2017.11.27-03.30.30:391][882]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/myGameInstance0B7D9D8C4AF16478E97D52B3608D91F0.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/myGameInstance.uasset'
+[2017.11.27-03.30.30:394][882]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/myGameInstance.uasset
+[2017.11.27-03.33.29:095][758]LogSavePackage: Save=6.72ms
+[2017.11.27-03.33.29:095][758]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/myGameInstance419BBD60438E75880014F9B8DA6C785A.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/myGameInstance.uasset'
+[2017.11.27-03.33.29:096][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/myGameInstance.uasset
+[2017.11.27-03.33.36:629][211]BlueprintLog: New page: Compile myGameInstance
+[2017.11.27-03.33.37:236][236]LogSavePackage: Save=5.63ms
+[2017.11.27-03.33.37:237][236]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/myGameInstance2FB505E949468D65EF6BCE8B69571868.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/myGameInstance.uasset'
+[2017.11.27-03.33.37:239][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/myGameInstance.uasset
+[2017.11.27-03.33.51:407][552]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:11633).
+[2017.11.27-03.33.51:445][553]LogRenderer: Reallocating scene render targets to support 1208x584 Format 10 NumSamples 1 (Frame:11635).
+[2017.11.27-03.33.51:486][554]LogRenderer: Reallocating scene render targets to support 1208x596 Format 10 NumSamples 1 (Frame:11637).
+[2017.11.27-03.33.51:528][555]LogRenderer: Reallocating scene render targets to support 1208x616 Format 10 NumSamples 1 (Frame:11639).
+[2017.11.27-03.33.51:598][556]LogRenderer: Reallocating scene render targets to support 1208x632 Format 10 NumSamples 1 (Frame:11641).
+[2017.11.27-03.33.51:644][557]LogRenderer: Reallocating scene render targets to support 1208x656 Format 10 NumSamples 1 (Frame:11643).
+[2017.11.27-03.33.51:690][558]LogRenderer: Reallocating scene render targets to support 1208x668 Format 10 NumSamples 1 (Frame:11645).
+[2017.11.27-03.33.51:766][559]LogRenderer: Reallocating scene render targets to support 1208x680 Format 10 NumSamples 1 (Frame:11647).
+[2017.11.27-03.33.59:359][156]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.27-03.35.47:288][248]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.35.47:816][262]LogSavePackage: Save=29.90ms
+[2017.11.27-03.35.47:816][262]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy283282A8745C98A8AE4AFF3924C1C1CC1.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.35.47:819][262]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.36.07:733][719]BlueprintLog: New page: Compile MyGameMode
+[2017.11.27-03.36.08:282][728]LogSavePackage: Save=30.68ms
+[2017.11.27-03.36.08:282][728]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/MyGameMode993345B349ED301F9BD7A68893B22E1B.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/MyGameMode.uasset'
+[2017.11.27-03.36.08:285][728]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/MyGameMode.uasset
+[2017.11.27-03.36.29:718][415]BlueprintLog: New page: Compile MyGameMode
+[2017.11.27-03.36.30:240][423]LogSavePackage: Save=31.15ms
+[2017.11.27-03.36.30:240][423]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/MyGameModeDF65021847D8BF740644B7BFF0190A5E.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/MyGameMode.uasset'
+[2017.11.27-03.36.30:243][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/MyGameMode.uasset
+[2017.11.27-03.36.34:968][781]BlueprintLog: New page: Compile MyGameMode
+[2017.11.27-03.36.35:503][790]LogSavePackage: Save=30.79ms
+[2017.11.27-03.36.35:503][790]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/MyGameModeFCE222664F6E0039F5DA43873B5C224C.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/MyGameMode.uasset'
+[2017.11.27-03.36.35:506][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/MyGameMode.uasset
+[2017.11.27-03.37.37:389][ 35]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.37.37:416][ 35]LogBlueprint: Error: [Compiler Enemy2] This blueprint (self) is not a MyGameMode_C, therefore ' Target ' must have a connection.
+[2017.11.27-03.37.37:416][ 35]LogBlueprint: Error: [Compiler Enemy2] The type of  Object  is undetermined.  Connect something to  Cast To MyGameMode  to imply a specific type.
+[2017.11.27-03.37.37:416][ 35]LogBlueprint: Error: [Compiler Enemy2] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2017.11.27-03.37.37:416][ 35]LogBlueprint: Error: [Compiler Enemy2] Variable node  Get TotalHealth  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.11.27-03.37.37:538][ 35]LogBlueprint: Warning: [Compiler Enemy2] [0588.97] Compile of Enemy2 failed. 4 Fatal Issue(s) 0 Warning(s) [in 149 ms] (/Game/Blueprints/Enemy2.Enemy2)
+[2017.11.27-03.37.38:051][ 47]LogSavePackage: Save=38.70ms
+[2017.11.27-03.37.38:051][ 47]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy241DFDB2C45F9302E1C69F6A1E307FEC5.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.37.38:054][ 47]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.37.58:179][361]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.37.58:201][361]LogBlueprint: Warning: [Compiler Enemy2] 'My Game Mode' does not inherit from 'Player Controller' ( Cast To MyGameMode  would always fail).
+[2017.11.27-03.37.58:201][361]LogBlueprint: Error: [Compiler Enemy2] This blueprint (self) is not a MyGameMode_C, therefore ' Target ' must have a connection.
+[2017.11.27-03.37.58:202][361]LogBlueprint: Error: [Compiler Enemy2] Variable node  Get TotalHealth  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.11.27-03.37.58:321][361]LogBlueprint: Warning: [Compiler Enemy2] [0609.76] Compile of Enemy2 failed. 2 Fatal Issue(s) 1 Warning(s) [in 142 ms] (/Game/Blueprints/Enemy2.Enemy2)
+[2017.11.27-03.38.00:876][489]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.38.00:898][489]LogBlueprint: Warning: [Compiler Enemy2] 'My Game Mode' does not inherit from 'Player Controller' ( Cast To MyGameMode  would always fail).
+[2017.11.27-03.38.01:021][489]LogBlueprint: Warning: [Compiler Enemy2] [0612.46] Compile of Enemy2 successful, but with 1 Warning(s) [in 145 ms] (/Game/Blueprints/Enemy2.Enemy2)
+[2017.11.27-03.38.01:579][503]LogSavePackage: Save=39.49ms
+[2017.11.27-03.38.01:579][503]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy2A3C09ED34E451AFE7BCE0AA9B6C512DF.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.38.01:582][503]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.38.42:402][ 81]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.38.43:071][101]LogSavePackage: Save=39.89ms
+[2017.11.27-03.38.43:072][101]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy2750CDA2347E1FF54B9C3648592A6A742.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.38.43:075][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.38.45:557][324]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-03.38.45:603][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.38.45:603][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-03.38.45:604][324]PIE: New page: PIE session: GameLevel (Nov 26, 2017, 11:38:45 AM)
+[2017.11.27-03.38.45:604][324]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.27-03.38.45:605][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001333s)
+[2017.11.27-03.38.45:606][324]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.27-03.38.45:606][324]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2017.11.27-03.38.45:606][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002181s)
+[2017.11.27-03.38.45:634][324]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.27-03.38.45:641][324]LogInit: FAudioDevice initialized.
+[2017.11.27-03.38.45:683][324]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.27-03.38.45:684][324]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.26-19.38.45
+[2017.11.27-03.38.45:684][324]LogWorld: Bringing up level for play took: 0.000774
+[2017.11.27-03.38.45:722][324]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.11.27-03.38.45:723][324]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.27-03.38.45:723][324]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.27-03.38.45:723][324]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.27-03.38.45:724][324]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.27-03.38.45:724][324]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel -0.472
+[2017.11.27-03.38.45:724][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.38.53:280][222]LogBlueprintUserMessages: [Enemy2_C_2] 5
+[2017.11.27-03.38.53:781][282]LogBlueprintUserMessages: [Enemy2_C_3] 5
+[2017.11.27-03.38.59:785][  2]LogBlueprintUserMessages: [Enemy2_C_6] 5
+[2017.11.27-03.39.05:278][661]LogBlueprintUserMessages: [Enemy2_C_8] 5
+[2017.11.27-03.39.05:778][721]LogBlueprintUserMessages: [Enemy2_C_9] 5
+[2017.11.27-03.39.05:797][723]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.39.05:830][723]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.39.23:823][306]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.39.24:427][322]LogSavePackage: Save=39.17ms
+[2017.11.27-03.39.24:427][322]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy2E3934DCA4E98BF1519EDFCA458D3BD60.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.39.24:430][322]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.39.26:684][499]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-03.39.26:707][499]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.39.26:708][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-03.39.26:708][499]PIE: New page: PIE session: GameLevel (Nov 26, 2017, 11:39:26 AM)
+[2017.11.27-03.39.26:708][499]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.27-03.39.26:709][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001237s)
+[2017.11.27-03.39.26:710][499]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.27-03.39.26:710][499]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2017.11.27-03.39.26:710][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002164s)
+[2017.11.27-03.39.26:739][499]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.27-03.39.26:745][499]LogInit: FAudioDevice initialized.
+[2017.11.27-03.39.26:781][499]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.27-03.39.26:782][499]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.26-19.39.26
+[2017.11.27-03.39.26:782][499]LogWorld: Bringing up level for play took: 0.000690
+[2017.11.27-03.39.26:783][499]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.27-03.39.26:783][499]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.27-03.39.26:783][499]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.27-03.39.26:784][499]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.27-03.39.26:784][499]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel 0.588
+[2017.11.27-03.39.26:784][499]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.39.33:404][292]LogBlueprintUserMessages: [Enemy2_C_0] 4
+[2017.11.27-03.39.34:905][472]LogBlueprintUserMessages: [Enemy2_C_3] 3
+[2017.11.27-03.39.46:913][912]LogBlueprintUserMessages: [Enemy2_C_9] 2
+[2017.11.27-03.39.47:413][972]LogBlueprintUserMessages: [Enemy2_C_10] 1
+[2017.11.27-03.39.52:906][631]LogBlueprintUserMessages: [Enemy2_C_12] 0
+[2017.11.27-03.39.53:406][691]LogBlueprintUserMessages: [Enemy2_C_13] -1
+[2017.11.27-03.39.53:908][751]LogBlueprintUserMessages: [Enemy2_C_14] -2
+[2017.11.27-03.39.55:577][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.39.55:614][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.40.11:666][147]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.40.12:215][168]LogSavePackage: Save=39.73ms
+[2017.11.27-03.40.12:215][168]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy29F3DD4C547C47A8C727732AAFC176A4B.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.40.12:218][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.40.15:574][489]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-03.40.15:595][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.40.15:595][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-03.40.15:595][489]PIE: New page: PIE session: GameLevel (Nov 26, 2017, 11:40:15 AM)
+[2017.11.27-03.40.15:596][489]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.27-03.40.15:597][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001371s)
+[2017.11.27-03.40.15:598][489]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.27-03.40.15:598][489]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2017.11.27-03.40.15:598][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002315s)
+[2017.11.27-03.40.15:627][489]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.27-03.40.15:633][489]LogInit: FAudioDevice initialized.
+[2017.11.27-03.40.15:668][489]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.27-03.40.15:669][489]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.26-19.40.15
+[2017.11.27-03.40.15:669][489]LogWorld: Bringing up level for play took: 0.000635
+[2017.11.27-03.40.15:670][489]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.27-03.40.15:670][489]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.27-03.40.15:670][489]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.27-03.40.15:671][489]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.27-03.40.15:671][489]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel -0.525
+[2017.11.27-03.40.15:671][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.40.28:821][ 63]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.40.28:853][ 63]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.41.38:563][747]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.41.39:200][768]LogSavePackage: Save=38.56ms
+[2017.11.27-03.41.39:200][768]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy2D4320F5E410E0E4B7FFCB1A037801FFE.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.41.39:203][768]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.41.55:216][879]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.41.56:052][911]LogSavePackage: Save=38.10ms
+[2017.11.27-03.41.56:052][911]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy213799ED34E7639B9555A22AA6E9EBBC2.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.41.56:055][911]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.47.43:406][133]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.47.43:432][133]LogBlueprint: Error: [Compiler Enemy2] This blueprint (self) is not a MyGameMode_C, therefore ' Target ' must have a connection.
+[2017.11.27-03.47.43:433][133]LogBlueprint: Error: [Compiler Enemy2] Variable node  Get TotalHealth  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.11.27-03.47.43:562][133]LogBlueprint: Warning: [Compiler Enemy2] [1195.00] Compile of Enemy2 failed. 2 Fatal Issue(s) 0 Warning(s) [in 156 ms] (/Game/Blueprints/Enemy2.Enemy2)
+[2017.11.27-03.47.43:956][149]LogSavePackage: Save=50.46ms
+[2017.11.27-03.47.43:956][149]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy2C63D6F7D4A4A588C08A78E863326B1D9.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.47.43:960][149]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.47.48:516][502]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.47.49:098][522]LogSavePackage: Save=51.59ms
+[2017.11.27-03.47.49:098][522]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy22BE31D834B1F43FD6DA679B7B7B13EB9.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.47.49:101][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.48.36:394][692]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.48.36:887][699]LogSavePackage: Save=50.48ms
+[2017.11.27-03.48.36:888][699]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy2D7093753483E33838BCF6FA4D6A15AB2.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.48.36:891][699]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.48.47:249][203]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.48.47:764][206]LogSavePackage: Save=54.78ms
+[2017.11.27-03.48.47:764][206]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy263E7941F482A1FC507D3D3A3960B06E4.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.48.47:767][206]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.48.49:154][302]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.27-03.48.49:177][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.48.49:177][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.27-03.48.49:177][302]PIE: New page: PIE session: GameLevel (Nov 26, 2017, 11:48:49 AM)
+[2017.11.27-03.48.49:177][302]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.27-03.48.49:179][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001245s)
+[2017.11.27-03.48.49:179][302]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.27-03.48.49:179][302]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2017.11.27-03.48.49:179][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002118s)
+[2017.11.27-03.48.49:209][302]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.27-03.48.49:216][302]LogInit: FAudioDevice initialized.
+[2017.11.27-03.48.49:250][302]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.27-03.48.49:251][302]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.26-19.48.49
+[2017.11.27-03.48.49:252][302]LogWorld: Bringing up level for play took: 0.000690
+[2017.11.27-03.48.49:252][302]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.27-03.48.49:252][302]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.27-03.48.49:252][302]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.27-03.48.49:253][302]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.27-03.48.49:253][302]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel 1.057
+[2017.11.27-03.48.49:253][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.48.51:965][625]LogBlueprintUserMessages: [Enemy2_C_3] 1
+[2017.11.27-03.48.55:979][106]LogBlueprintUserMessages: [Enemy2_C_10] 2
+[2017.11.27-03.48.58:073][357]LogBlueprintUserMessages: [Enemy2_C_12] 3
+[2017.11.27-03.48.59:116][482]LogBlueprintUserMessages: [Enemy2_C_14] 4
+[2017.11.27-03.48.59:708][553]LogBlueprintUserMessages: [Enemy2_C_15] 5
+[2017.11.27-03.49.02:061][835]LogBlueprintUserMessages: [Enemy2_C_20] 6
+[2017.11.27-03.49.02:394][875]LogBlueprintUserMessages: [Enemy2_C_21] 7
+[2017.11.27-03.49.03:270][980]LogBlueprintUserMessages: [Enemy2_C_22] 8
+[2017.11.27-03.49.03:913][ 57]LogBlueprintUserMessages: [Enemy2_C_23] 9
+[2017.11.27-03.49.06:207][332]LogBlueprintUserMessages: [Enemy2_C_26] 10
+[2017.11.27-03.49.19:380][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.49.19:418][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.27-03.50.11:162][912]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.50.11:816][926]LogSavePackage: Save=53.09ms
+[2017.11.27-03.50.11:816][926]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy257485D544514AE98F95FDF98D31A62D5.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.50.11:819][926]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.27-03.50.20:273][537]BlueprintLog: New page: Compile Enemy2
+[2017.11.27-03.50.20:822][546]LogSavePackage: Save=52.28ms
+[2017.11.27-03.50.20:822][546]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy2A16D1B6F4CA595B40D27F98D2F15E8E0.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.27-03.50.20:825][546]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
