@@ -913,38 +913,3 @@ LogInit: Object subsystem initialized
 [2017.11.28-05.34.16:793][422]LogOutputDevice: Error: [Callstack] 0x0000000020AC0D51 ntdll.dll!UnknownFunction []
 [2017.11.28-05.34.16:793][422]LogOutputDevice: Error: 
 [2017.11.28-05.34.16:794][422]LogStats:                SubmitErrorReport -  0.000 s
-[2017.11.28-05.34.16:981][422]LogStats:                    SendNewReport -  0.187 s
-[2017.11.28-05.34.16:981][422]LogStats:             FDebug::EnsureFailed -  0.560 s
-[2017.11.28-05.34.16:982][422]LogUObjectArray: Warning: Invalid object index -572662307
-[2017.11.28-05.34.21:207][612]LogUObjectArray: Warning: Invalid object index -572662307
-[2017.11.28-05.34.21:207][612]LogUObjectArray: Warning: Invalid object index -572662307
-[2017.11.28-05.34.21:208][612]LogUObjectArray: Warning: Invalid object index -572662307
-[2017.11.28-05.34.21:209][612]LogUObjectArray: Warning: Invalid object index -572662307
-[2017.11.28-05.34.21:211][612]LogUObjectArray: Warning: Invalid object index -572662307
-[2017.11.28-05.34.21:214][612]LogUObjectArray: Warning: Invalid object index -572662307
-[2017.11.28-05.34.27:079][814]BlueprintLog: New page: Compile EnemySpawner
-[2017.11.28-05.34.27:688][817]LogSavePackage: Save=34.46ms
-[2017.11.28-05.34.27:688][817]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/EnemySpawnerDBBEB0634280364A778C87BA6D82EBE2.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/EnemySpawner.uasset'
-[2017.11.28-05.34.27:690][817]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/EnemySpawner.uasset
-[2017.11.28-05.34.30:104][985]LogTemp: Repeating last play command: Selected Viewport
-[2017.11.28-05.34.30:132][985]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
-[2017.11.28-05.34.30:133][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.11.28-05.34.30:133][985]PIE: New page: PIE session: GameLevel (Nov 27, 2017, 1:34:30 PM)
-[2017.11.28-05.34.30:133][985]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
-[2017.11.28-05.34.30:134][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001212s)
-[2017.11.28-05.34.30:135][985]LogAIModule: Creating AISystem for world GameLevel
-[2017.11.28-05.34.30:135][985]LogPlayLevel: PIE: World Init took: (0.000546s)
-[2017.11.28-05.34.30:135][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.001980s)
-[2017.11.28-05.34.30:160][985]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
-[2017.11.28-05.34.30:165][985]LogInit: FAudioDevice initialized.
-[2017.11.28-05.34.30:199][985]LogLoad: Game class is 'MyGameMode_C'
-[2017.11.28-05.34.30:200][985]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.27-21.34.30
-[2017.11.28-05.34.30:200][985]LogWorld: Bringing up level for play took: 0.000509
-[2017.11.28-05.34.30:200][985]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
-[2017.11.28-05.34.30:200][985]LogGameState: Match State Changed from EnteringMap to WaitingToStart
-[2017.11.28-05.34.30:200][985]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
-[2017.11.28-05.34.30:202][985]LogGameState: Match State Changed from WaitingToStart to InProgress
-[2017.11.28-05.34.30:202][985]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel 0.845
-[2017.11.28-05.34.30:202][985]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
-[2017.11.28-05.34.42:037][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
-[2017.11.28-05.34.42:075][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
