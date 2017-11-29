@@ -1231,3 +1231,220 @@ Make sure 'MyGameMode_C' has been compiled for  Show Game Over
 [2017.11.29-07.44.20:008][452]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameLevel5D5570F44A9E2C0A1FA5AF814D8AFB68.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap'
 [2017.11.29-07.44.20:011][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap
 [2017.11.29-07.44.20:047][452]LogFileHelpers: Saving map 'GameLevel' took 0.271
+[2017.11.29-07.46.09:329][ 24]BlueprintLog: New page: Compile EnemySpawner
+[2017.11.29-07.46.10:032][ 38]LogSavePackage: Save=60.98ms
+[2017.11.29-07.46.10:032][ 38]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/EnemySpawnerC40A2D9A4654C3200C907B91615DA087.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/EnemySpawner.uasset'
+[2017.11.29-07.46.10:036][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/EnemySpawner.uasset
+[2017.11.29-07.46.16:840][548]BlueprintLog: New page: Compile EnemySpawner
+[2017.11.29-07.46.17:422][555]LogSavePackage: Save=61.42ms
+[2017.11.29-07.46.17:422][555]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/EnemySpawner219E64D640E1D8A6E2FCB1A8B02B727E.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/EnemySpawner.uasset'
+[2017.11.29-07.46.17:425][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/EnemySpawner.uasset
+[2017.11.29-07.46.19:100][696]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-07.46.19:136][696]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.46.19:136][696]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-07.46.19:137][696]PIE: New page: PIE session: GameLevel (Nov 28, 2017, 3:46:19 PM)
+[2017.11.29-07.46.19:137][696]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.29-07.46.19:138][696]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001419s)
+[2017.11.29-07.46.19:139][696]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.29-07.46.19:139][696]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2017.11.29-07.46.19:139][696]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002317s)
+[2017.11.29-07.46.19:166][696]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.29-07.46.19:173][696]LogInit: FAudioDevice initialized.
+[2017.11.29-07.46.19:204][696]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.29-07.46.19:205][696]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.28-23.46.19
+[2017.11.29-07.46.19:205][696]LogWorld: Bringing up level for play took: 0.000697
+[2017.11.29-07.46.19:206][696]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.46.19:206][696]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.46.19:206][696]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.46.19:208][696]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.46.19:208][696]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel 0.931
+[2017.11.29-07.46.19:209][696]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.47.14:047][267]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.11.29-07.47.14:047][267]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.11.29-07.47.14:047][267]LogNet: Browse: /Game/Levels/GameLevel
+[2017.11.29-07.47.14:047][267]LogLoad: LoadMap: /Game/Levels/GameLevel
+[2017.11.29-07.47.14:072][267]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.29-07.47.14:073][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001233s)
+[2017.11.29-07.47.14:074][267]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.29-07.47.14:074][267]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2017.11.29-07.47.14:074][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002159s)
+[2017.11.29-07.47.14:074][267]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.29-07.47.14:075][267]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.28-23.47.14
+[2017.11.29-07.47.14:076][267]LogWorld: Bringing up level for play took: 0.000655
+[2017.11.29-07.47.14:076][267]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.11.29-07.47.14:076][267]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.47.14:076][267]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.47.14:076][267]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.47.14:078][267]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.47.14:079][267]LogLoad: Took 0.031503 seconds to LoadMap(/Game/Levels/UEDPIE_0_GameLevel)
+[2017.11.29-07.50.25:638][204]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.50.25:679][204]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.50.28:566][371]LogSavePackage: Save=133.11ms
+[2017.11.29-07.50.28:567][371]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameLevelE1F7E0B9428988F9E68B89B1FC1E23A5.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap'
+[2017.11.29-07.50.28:571][371]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap
+[2017.11.29-07.50.28:607][371]LogFileHelpers: Saving map 'GameLevel' took 0.273
+[2017.11.29-07.50.52:773][986]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.29-07.50.52:904][986]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.11.29-07.51.01:488][529]MapCheck: New page: Map Check
+[2017.11.29-07.51.01:520][529]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.29-07.51.01:520][529]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.29-07.51.01:600][529]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2017.11.29-07.51.01:608][529]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy EBase, compiling. 
+[2017.11.29-07.51.01:999][529]TextureStreamingBuild: Display: Compiling optional shaders took 0.403 seconds.
+[2017.11.29-07.51.02:003][529]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2017.11.29-07.51.02:009][529]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2017.11.29-07.51.02:024][529]LightingResults: New page: Lighting Build - Nov 28, 2017, 3:51:02 PM
+[2017.11.29-07.51.02:160][529]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.29-07.51.02:267][529]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.29-07.51.02:284][529]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.29-07.51.02:816][529]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.29-07.51.02:816][529]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1956
+[2017.11.29-07.51.05:653][529]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.29-07.51.05:653][529]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.29-07.51.05:653][529]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.29-07.51.05:654][529]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.29-07.51.05:654][529]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.29-07.51.05:654][529]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.29-07.51.05:771][529]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.29-07.51.05:772][529]MapCheck: New page: GameLevel - Nov 28, 2017, 3:51:05 PM
+[2017.11.29-07.51.05:772][529]MapCheck: Warning: new_gamebackground_Sprite_2 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. EBase 
+[2017.11.29-07.51.05:772][529]MapCheck: Warning: new_gamebackground_Sprite_2 'new_gamebackground_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2017.11.29-07.51.05:772][529]MapCheck: Error: EnemySpawner_224 EnemySpawner_224 : Invalid DrawScale/DrawScale3D 
+[2017.11.29-07.51.05:829][529]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 57.442ms to complete.
+[2017.11.29-07.51.05:851][529]LogEditorBuildUtils: Build time 0:04
+[2017.11.29-07.51.05:876][529]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.29-07.51.05:886][529]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.29-07.51.08:355][551]Job is a success!
+[2017.11.29-07.51.08:513][552]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2017.11.29-07.51.08:513][552]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.29-07.51.08:513][552]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2017.11.29-07.51.08:513][552]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.29-07.51.08:513][552]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2017.11.29-07.51.08:513][552]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2017.11.29-07.51.08:513][552]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2017.11.29-07.51.08:674][552]Lightmass on DESKTOP-A54SF20: 711 ms total, 99 ms importing, 18 ms setup, 154 ms photons, 419 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 1.64 sec total, 0 ms processing.
+[2017.11.29-07.51.08:762][552]LogStaticLightingSystem: Illumination: 6.66 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2017.11.29-07.51.08:762][552]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.29-07.51.08:762][552]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2017.11.29-07.51.09:648][552]DumpUnbuiltLightIteractions
+[2017.11.29-07.51.09:648][552]Lights with unbuilt interactions: 0
+[2017.11.29-07.51.09:648][552]
+[2017.11.29-07.51.09:648][552]Primitives with unbuilt interactions: 0
+[2017.11.29-07.51.09:688][553]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.29-07.51.09:688][553]MapCheck: New page: GameLevel - Nov 28, 2017, 3:51:09 PM
+[2017.11.29-07.51.09:688][553]MapCheck: Warning: new_gamebackground_Sprite_2 The material applied to the sprite component is not marked as two-sided, which may cause lighting artifacts. EBase 
+[2017.11.29-07.51.09:689][553]MapCheck: Warning: new_gamebackground_Sprite_2 'new_gamebackground_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2017.11.29-07.51.09:689][553]MapCheck: Error: EnemySpawner_224 EnemySpawner_224 : Invalid DrawScale/DrawScale3D 
+[2017.11.29-07.51.09:745][553]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 57.085ms to complete.
+[2017.11.29-07.53.05:627][416]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-07.53.05:646][416]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.53.05:646][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-07.53.05:646][416]PIE: New page: PIE session: GameLevel (Nov 28, 2017, 3:53:05 PM)
+[2017.11.29-07.53.05:646][416]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.29-07.53.05:648][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001456s)
+[2017.11.29-07.53.05:648][416]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.29-07.53.05:648][416]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2017.11.29-07.53.05:649][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002492s)
+[2017.11.29-07.53.05:700][416]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.29-07.53.05:707][416]LogInit: FAudioDevice initialized.
+[2017.11.29-07.53.05:736][416]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.29-07.53.05:737][416]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.28-23.53.05
+[2017.11.29-07.53.05:737][416]LogWorld: Bringing up level for play took: 0.000618
+[2017.11.29-07.53.05:738][416]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.53.05:738][416]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.53.05:738][416]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.53.05:740][416]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.53.05:740][416]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel -0.537
+[2017.11.29-07.53.05:741][416]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.53.10:172][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.53.10:209][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.53.12:406][191]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-07.53.12:424][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.53.12:424][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-07.53.12:424][191]PIE: New page: PIE session: GameLevel (Nov 28, 2017, 3:53:12 PM)
+[2017.11.29-07.53.12:424][191]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.29-07.53.12:426][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001420s)
+[2017.11.29-07.53.12:426][191]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.29-07.53.12:427][191]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2017.11.29-07.53.12:427][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002252s)
+[2017.11.29-07.53.12:452][191]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.29-07.53.12:458][191]LogInit: FAudioDevice initialized.
+[2017.11.29-07.53.12:492][191]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.29-07.53.12:492][191]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.28-23.53.12
+[2017.11.29-07.53.12:493][191]LogWorld: Bringing up level for play took: 0.000583
+[2017.11.29-07.53.12:493][191]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.53.12:493][191]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.53.12:493][191]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.53.12:495][191]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.53.12:495][191]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel 0.218
+[2017.11.29-07.53.12:496][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.53.26:264][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.53.26:301][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.53.56:668][ 51]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2017.11.29-07.54.05:877][606]LogSavePackage: Save=9.18ms
+[2017.11.29-07.54.05:877][606]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/new_gamebackground_Sprite2B6524A34E80EE025A50A2986C8EC1CB.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/new_gamebackground_Sprite.uasset'
+[2017.11.29-07.54.05:880][606]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Sprites/new_gamebackground_Sprite.uasset
+[2017.11.29-07.54.07:888][779]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-07.54.07:910][779]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.54.07:910][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-07.54.07:910][779]PIE: New page: PIE session: GameLevel (Nov 28, 2017, 3:54:07 PM)
+[2017.11.29-07.54.07:910][779]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.29-07.54.07:912][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001226s)
+[2017.11.29-07.54.07:912][779]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.29-07.54.07:912][779]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2017.11.29-07.54.07:912][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002025s)
+[2017.11.29-07.54.07:936][779]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.29-07.54.07:943][779]LogInit: FAudioDevice initialized.
+[2017.11.29-07.54.07:973][779]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.29-07.54.07:974][779]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.28-23.54.07
+[2017.11.29-07.54.07:974][779]LogWorld: Bringing up level for play took: 0.000650
+[2017.11.29-07.54.07:975][779]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.54.07:975][779]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.54.07:975][779]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.54.07:977][779]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.54.07:977][779]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel -0.3
+[2017.11.29-07.54.07:978][779]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.54.12:961][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.54.12:994][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.56.39:154][533]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (new_gamebackground_Sprite)
+[2017.11.29-07.56.57:486][785]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.29-07.57.00:511][144]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (new_gamebackground_Sprite)
+[2017.11.29-07.57.01:540][266]LogEditorViewport: Clicking Background
+[2017.11.29-07.57.02:232][348]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (new_gamebackground_Sprite)
+[2017.11.29-07.57.02:963][431]Cmd: DELETE
+[2017.11.29-07.57.02:963][431]Cmd: ACTOR DELETE
+[2017.11.29-07.57.02:965][431]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.11.29-07.57.02:982][431]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.11.29-07.57.23:929][779]LogSavePackage: Save=127.64ms
+[2017.11.29-07.57.23:929][779]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameLevelD3CED3F54399BC47426486842C1E95EC.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap'
+[2017.11.29-07.57.23:932][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel.umap
+[2017.11.29-07.57.23:968][779]LogFileHelpers: Saving map 'GameLevel' took 0.257
+[2017.11.29-07.57.23:979][779]LogSavePackage: Save=5.03ms
+[2017.11.29-07.57.23:979][779]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameLevel_BuiltData74B64CEF46A454057FB62F9C645EC536.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel_BuiltData.uasset'
+[2017.11.29-07.57.23:982][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Levels/GameLevel_BuiltData.uasset
+[2017.11.29-07.57.24:054][779]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2017.11.29-07.57.24:054][779]SourceControl: Error: myArtProject/Content/Levels/GameLevel_BuiltData.uasset
+[2017.11.29-07.57.24:054][779]SourceControl: Error: Use -f if you really want to add them.
+[2017.11.29-07.57.33:807][537]SourceControl: rm 'myArtProject/Content/Sprites/new_gamebackground_Sprite.uasset'
+[2017.11.29-07.57.39:149][158]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-07.57.39:167][158]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.57.39:167][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-07.57.39:167][158]PIE: New page: PIE session: GameLevel (Nov 28, 2017, 3:57:39 PM)
+[2017.11.29-07.57.39:168][158]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.29-07.57.39:169][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001365s)
+[2017.11.29-07.57.39:169][158]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.29-07.57.39:170][158]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2017.11.29-07.57.39:170][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002226s)
+[2017.11.29-07.57.39:191][158]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.29-07.57.39:197][158]LogInit: FAudioDevice initialized.
+[2017.11.29-07.57.39:229][158]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.29-07.57.39:230][158]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.28-23.57.39
+[2017.11.29-07.57.39:230][158]LogWorld: Bringing up level for play took: 0.000579
+[2017.11.29-07.57.39:230][158]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.57.39:230][158]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-07.57.39:230][158]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.57.39:233][158]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-07.57.39:233][158]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel 0.955
+[2017.11.29-07.57.39:233][158]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.57.43:629][684]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-07.57.43:663][684]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
