@@ -16523,3 +16523,162 @@ Make sure 'MainMenuUI_C' has been compiled for  Get HowToPlayMenuBox
 [2017.11.29-04.46.12:963][486]LogSavePackage: Save=103.11ms
 [2017.11.29-04.46.12:963][486]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/MyGameMode108797124048C47639A35DA78C9CD629.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/MyGameMode.uasset'
 [2017.11.29-04.46.12:967][486]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/MyGameMode.uasset
+[2017.11.29-04.47.10:783][705]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.47.11:825][760]LogSavePackage: Save=60.93ms
+[2017.11.29-04.47.11:825][760]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUIABFDF19B4AED200644161482F5346528.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.47.11:828][760]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.48.17:352][940]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.48.18:109][967]LogSavePackage: Save=66.21ms
+[2017.11.29-04.48.18:109][967]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUI7C93918E404BE2C55A44CCB7F53414DA.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.48.18:113][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.48.24:867][456]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.48.24:888][456]LogClass: Warning: Type mismatch in SaveGameSlot of GameUI_C - Previous (BoolProperty) Current(StrProperty) for package:  FObjectReader
+[2017.11.29-04.48.25:502][482]LogSavePackage: Save=64.71ms
+[2017.11.29-04.48.25:503][482]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUI5829412A4D7E30F5100EFB8F6B5A7543.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.48.25:506][482]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.48.41:330][603]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.48.42:034][633]LogSavePackage: Save=64.49ms
+[2017.11.29-04.48.42:034][633]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUI8A1B422747ABD5DE0D02859F37A523CD.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.48.42:038][633]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.48.51:577][255]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.48.52:130][277]LogSavePackage: Save=64.73ms
+[2017.11.29-04.48.52:130][277]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUIE4898E504130FF1DA5CC63A1F7EEC134.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.48.52:133][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.49.08:821][848]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.49.09:413][874]LogSavePackage: Save=66.62ms
+[2017.11.29-04.49.09:413][874]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUIF3A6E9B2458B4DEFF4439684D0711F42.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.49.09:416][874]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.51.16:884][215]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.51.17:535][233]LogSavePackage: Save=67.27ms
+[2017.11.29-04.51.17:535][233]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUIC286D6F4444198BAD6B6B4AA8FBEBCE3.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.51.17:538][233]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.51.36:669][393]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.51.37:331][414]LogSavePackage: Save=67.00ms
+[2017.11.29-04.51.37:331][414]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUID4A1ED9F4CD56CB44D16F39038627A48.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.51.37:335][414]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.52.04:100][268]LogBlueprint: Warning: [GameUI] 'SaveGameSlot' variable not found. Base class was probably changed. /Game/Blueprints/UI/GameUI.GameUI
+[2017.11.29-04.55.04:537][333]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.55.05:208][362]LogSavePackage: Save=71.01ms
+[2017.11.29-04.55.05:208][362]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUI1DABD5294E4967F64983499FFA3BCCF1.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.55.05:212][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.55.29:920][990]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.55.30:514][ 12]LogSavePackage: Save=73.75ms
+[2017.11.29-04.55.30:514][ 12]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUICDC791B640CA6BEAF64768A31B6B2406.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.55.30:517][ 12]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.55.32:445][189]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-04.55.32:474][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.55.32:474][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-04.55.32:474][189]PIE: New page: PIE session: GameLevel (Nov 28, 2017, 12:55:32 PM)
+[2017.11.29-04.55.32:474][189]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.29-04.55.32:476][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001604s)
+[2017.11.29-04.55.32:477][189]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.29-04.55.32:477][189]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2017.11.29-04.55.32:477][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002527s)
+[2017.11.29-04.55.32:506][189]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.29-04.55.32:513][189]LogInit: FAudioDevice initialized.
+[2017.11.29-04.55.32:547][189]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.29-04.55.32:548][189]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.28-20.55.32
+[2017.11.29-04.55.32:548][189]LogWorld: Bringing up level for play took: 0.000695
+[2017.11.29-04.55.32:548][189]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-04.55.32:548][189]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-04.55.32:548][189]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-04.55.32:550][189]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-04.55.32:550][189]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel 0.273
+[2017.11.29-04.55.32:551][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.55.44:895][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.55.44:939][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.56.05:736][213]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-04.56.05:766][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.56.05:766][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-04.56.05:766][213]PIE: New page: PIE session: GameLevel (Nov 28, 2017, 12:56:05 PM)
+[2017.11.29-04.56.05:766][213]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.29-04.56.05:768][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001426s)
+[2017.11.29-04.56.05:768][213]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.29-04.56.05:768][213]LogPlayLevel: PIE: World Init took: (0.000506s)
+[2017.11.29-04.56.05:769][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002158s)
+[2017.11.29-04.56.05:798][213]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.29-04.56.05:804][213]LogInit: FAudioDevice initialized.
+[2017.11.29-04.56.05:840][213]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.29-04.56.05:841][213]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.28-20.56.05
+[2017.11.29-04.56.05:841][213]LogWorld: Bringing up level for play took: 0.000687
+[2017.11.29-04.56.05:842][213]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-04.56.05:842][213]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-04.56.05:842][213]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-04.56.05:844][213]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-04.56.05:844][213]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel -0.434
+[2017.11.29-04.56.05:844][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.56.12:899][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.56.12:936][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.56.46:122][696]LogBlueprint: Warning: [GameUI] 'SaveGameSlot' variable not found. Base class was probably changed. /Game/Blueprints/UI/GameUI.GameUI
+[2017.11.29-04.58.09:439][174]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.58.10:076][203]LogSavePackage: Save=76.44ms
+[2017.11.29-04.58.10:076][203]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUIBDEE26F546C84E784E00ABA7E5F81D99.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.58.10:080][203]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.58.34:905][436]BlueprintLog: New page: Compile GameUI
+[2017.11.29-04.58.35:538][456]LogSavePackage: Save=77.57ms
+[2017.11.29-04.58.35:538][456]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUI40BB2297406A3BB5B3C341AC46E07468.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-04.58.35:541][456]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-04.58.37:237][586]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-04.58.37:267][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.58.37:267][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-04.58.37:267][586]PIE: New page: PIE session: GameLevel (Nov 28, 2017, 12:58:37 PM)
+[2017.11.29-04.58.37:267][586]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.29-04.58.37:269][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001555s)
+[2017.11.29-04.58.37:270][586]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.29-04.58.37:270][586]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2017.11.29-04.58.37:270][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002519s)
+[2017.11.29-04.58.37:302][586]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.29-04.58.37:308][586]LogInit: FAudioDevice initialized.
+[2017.11.29-04.58.37:344][586]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.29-04.58.37:345][586]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.28-20.58.37
+[2017.11.29-04.58.37:345][586]LogWorld: Bringing up level for play took: 0.000677
+[2017.11.29-04.58.37:345][586]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-04.58.37:345][586]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-04.58.37:345][586]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-04.58.37:348][586]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-04.58.37:348][586]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel 1.07
+[2017.11.29-04.58.37:348][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.59.11:295][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.59.11:333][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.59.12:348][724]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.29-04.59.12:378][724]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-04.59.12:378][724]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.29-04.59.12:378][724]PIE: New page: PIE session: GameLevel (Nov 28, 2017, 12:59:12 PM)
+[2017.11.29-04.59.12:379][724]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GameLevel
+[2017.11.29-04.59.12:380][724]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001527s)
+[2017.11.29-04.59.12:381][724]LogAIModule: Creating AISystem for world GameLevel
+[2017.11.29-04.59.12:381][724]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2017.11.29-04.59.12:381][724]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GameLevel.GameLevel to /Game/Levels/UEDPIE_0_GameLevel.GameLevel (0.002406s)
+[2017.11.29-04.59.12:413][724]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.29-04.59.12:419][724]LogInit: FAudioDevice initialized.
+[2017.11.29-04.59.12:453][724]LogLoad: Game class is 'MyGameMode_C'
+[2017.11.29-04.59.12:454][724]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2017.11.28-20.59.12
+[2017.11.29-04.59.12:454][724]LogWorld: Bringing up level for play took: 0.000614
+[2017.11.29-04.59.12:455][724]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-04.59.12:455][724]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.11.29-04.59.12:455][724]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-04.59.12:457][724]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.11.29-04.59.12:457][724]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GameLevel 0.179
+[2017.11.29-04.59.12:457][724]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-05.00.09:951][544]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-05.00.09:991][544]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Levels/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Levels/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2017.11.29-05.00.32:060][930]BlueprintLog: New page: Compile GameUI
+[2017.11.29-05.00.32:684][946]LogSavePackage: Save=81.34ms
+[2017.11.29-05.00.32:684][946]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/GameUI8EA4BBAE4C583337B95594A4E035F6A7.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset'
+[2017.11.29-05.00.32:688][946]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/UI/GameUI.uasset
+[2017.11.29-05.01.18:712][234]BlueprintLog: New page: Compile Enemy2
+[2017.11.29-05.01.19:556][256]LogSavePackage: Save=63.31ms
+[2017.11.29-05.01.19:556][256]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy21B8989C84082E4C1C39221982FEEFCF6.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.29-05.01.19:559][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.29-05.01.38:894][ 23]BlueprintLog: New page: Compile Enemy2
+[2017.11.29-05.01.39:588][ 34]LogSavePackage: Save=63.37ms
+[2017.11.29-05.01.39:588][ 34]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy2D6ED333449A3E7BC42865FB71895548A.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.29-05.01.39:591][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.29-05.02.16:099][190]BlueprintLog: New page: Compile Enemy2
+[2017.11.29-05.02.16:706][204]LogSavePackage: Save=62.87ms
+[2017.11.29-05.02.16:706][204]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy269697178402B69BD550BCABDE2BE472D.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.29-05.02.16:709][204]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
+[2017.11.29-05.02.46:764][928]BlueprintLog: New page: Compile Enemy2
+[2017.11.29-05.02.47:280][934]LogSavePackage: Save=62.94ms
+[2017.11.29-05.02.47:281][934]LogSavePackage: Moving '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Saved/Enemy20BFBC01041120177C3FBC7B2DF8659C4.tmp' to '../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset'
+[2017.11.29-05.02.47:284][934]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Justi/Desktop/unreal_projects/EndlessClicker/artProject_TheoryOfComputation/myArtProject/Content/Blueprints/Enemy2.uasset
